@@ -40,6 +40,9 @@ git clone https://github.com/SteveSharma-official/defending-tomorrow.git
 cd defending-tomorrow
 pip install -r requirements.txt
 ```
+**Book Pre-Release Updates**
+Want to know when the book is available?
+📧 Email: steve@cybersecuritylink.com.au (put "Defending Tomorrow" in the subject)
 ## Author
 **Steve Sharma** — Principal Cybersecurity Architect, IRAP Assessor
 ## License
