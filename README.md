@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
-> 📘 **Book Status:** *Defending Tomorrow* is coming in Late 2025 / Early 2026.
+> 📘 **Book Status:** *Defending Tomorrow* is coming in Mid 2026 / Late 2026.
 > This repository is the official companion — code, checklists, and diagrams will be released chapter by chapter.
 
 # Defending Tomorrow: AI Security in the Age of Intelligent Threats
