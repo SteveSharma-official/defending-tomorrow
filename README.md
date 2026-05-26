@@ -50,6 +50,63 @@ cd defending-tomorrow
 
 # Install dependencies (if requirements.txt exists)
 pip install -r requirements.txt
+📖 Chapter Code Index
+Chapter	Topic	Key Code Files
+3	Adversarial Machine Learning	fgsm_attack.py, membership_inference.py
+4	Secure Development	differential_privacy.py, safe_serialization.py
+5	MLOps Security	terraform/main.tf, k8s_policies.yaml
+6	LLM Security	prompt_injection_detector.py, rag_security.py
+7	Advanced Defenses	neural_cleanse.py, model_watermarking.py
+8	Threat Detection	autoencoder_anomaly.py, lstm_behavior.py
+9	Automated Response	alert_clustering.py, severity_prediction.py
+10	SOAR Platforms	adaptive_playbook.py, llm_playbook_gen.py
+11	Red Teaming	attack_path_analysis.py, bas_metrics.py
+12	Zero Trust	service_mesh_config.yaml, abac_policies.py
+✅ Available Checklists
+ID	Name	Use Case
+1.1	Initial AI Security Posture Assessment	Quick start assessment
+2.1	Threat Landscape Assessment	Identify AI-specific threats
+3.1	Adversarial Vulnerability Assessment	Test model robustness
+4.1	Pre-Training Security Checklist	Before model training
+4.2	Model Release Security Gate	Production deployment
+7.1	Advanced AI Model Security (20-point)	Comprehensive verification
+12.1	Zero Trust AI Implementation (50-point)	Enterprise rollout
+13.1	AI Security Governance Health Check	Compliance readiness
+15.1	Future-Proofing AI Security	Strategic planning
+📥 Download all checklists: checklists/pdf/
+
+📚 Appendices
+Appendix A: AI Security Assessment Frameworks (8 checklists)
+
+Appendix B: 50+ Open-Source Tools Catalog
+
+Appendix C: 200+ Term Glossary (AI + Cybersecurity)
+
+Appendix D: Standards Mapping (NIST, MITRE ATLAS, ASD Essential Eight, APRA CPS 234, ISO 42001)
+
+Appendix E: 5 Case Studies (Gov, Bank, OT/ICS, Defence, Healthcare)
+
+🤝 Contributing
+We welcome contributions! Please see CONTRIBUTING.md for guidelines.
+
+Technical Reviewers Needed: Looking for CISOs, ML Engineers, and Security Architects.
+
+📄 License
+Code samples: MIT License (free use with attribution)
+
+Diagrams & checklists: All rights reserved (book content)
+
+🐛 Reporting Issues
+Open an issue for:
+
+Code corrections or bugs
+
+Clarification requests
+
+Security concerns (private disclosure available)
+
+📬 Connect
+⭐ Star this repository to stay updated with new chapters and code releases!
 **Book Pre-Release Updates**
 Want to know when the book is available?
 📧 Email: steve@cybersecuritylink.com.au (put "Defending Tomorrow" in the subject)
