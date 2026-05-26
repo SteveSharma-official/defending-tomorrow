@@ -43,6 +43,23 @@ defending-tomorrow/
 └── README.md # This file
 ## 🚀 Quick Start
 
+---
+
+### 7. Root `README.md` (Already Good, But Add Folder Descriptions)
+
+Your root `README.md` is already excellent. To make folder purposes clearer, add this section right after the "Repository Structure" diagram:
+
+```markdown
+## 📂 Folder Purpose Quick Reference
+
+| Folder | What It Contains | Who Should Use It |
+|--------|------------------|-------------------|
+| `/code` | Executable Python code by chapter | Developers, ML engineers, security researchers |
+| `/checklists` | Printable PDF and editable Markdown checklists | Auditors, compliance teams, security managers |
+| `/diagrams` | Architecture diagrams (PNG/SVG + source files) | Architects, presenters, documentation teams |
+| `/docs` | Appendices A-E (glossary, tools, standards, case studies) | Everyone - reference material |
+| `/examples` | Interactive Jupyter notebooks | Hands-on learners, trainers |
+| `/scripts` | Utility scripts for automation | DevOps, security automation engineers |
 ```bash
 # Clone the repository
 git clone https://github.com/SteveSharma-official/defending-tomorrow.git
