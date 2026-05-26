@@ -45,10 +45,6 @@ defending-tomorrow/
 
 ---
 
-### 7. Root `README.md` (Already Good, But Add Folder Descriptions)
-
-Your root `README.md` is already excellent. To make folder purposes clearer, add this section right after the "Repository Structure" diagram:
-
 ```markdown
 ## 📂 Folder Purpose Quick Reference
 
