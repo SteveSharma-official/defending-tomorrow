@@ -34,6 +34,29 @@ This directory contains interactive Jupyter notebooks demonstrating key concepts
 pip install -r requirements.txt
 pip install jupyter
 
+
 # Navigate to examples
 cd examples/notebooks
 jupyter notebook
+Online (GitHub Codespaces):
+Click "Code" → "Codespaces" → "Create codespace"
+
+Wait for environment to build
+
+Open any .ipynb file
+
+📖 Interactive Learning Path
+Recommended order for hands-on practice:
+
+Beginner → FGSM tutorial (Chapter 3)
+
+Intermediate → Drift detection (Chapter 5)
+
+Advanced → Zero trust simulator (Chapter 12)
+
+⚠️ Environment Requirements
+Python 3.9+
+
+8GB RAM minimum (16GB recommended for LLM examples)
+
+GPU optional but helpful for deep learning notebooks
