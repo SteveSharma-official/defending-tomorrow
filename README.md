@@ -1,42 +1,55 @@
-# Defending Tomorrow: AI Security in the Age of Intelligent Threats
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+# 🛡️ Defending Tomorrow: AI Security in the Age of Intelligent Threats
 
-> 📘 **Book Status:** *Defending Tomorrow* is coming in Mid 2026 / Late 2026.
-> This repository is the official companion — code, checklists, and diagrams will be released chapter by chapter.
+**Author:** Steve Sharma | **Status:** Active Development | **Version:** 1.0
 
-# Defending Tomorrow: AI Security in the Age of Intelligent Threats
+[![GitHub stars](https://img.shields.io/github/stars/SteveSharma-official/defending-tomorrow)](https://github.com/SteveSharma-official/defending-tomorrow/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-## Official Companion Repository
+## 📚 About This Book
 
-This repository contains code samples, checklists, and diagrams for *Defending Tomorrow* by Steve Sharma.
+*Defending Tomorrow* is the definitive practitioner's guide to AI security — written by a Principal Architect for senior security professionals, ML engineers, and SOC architects.
 
-## Repository Structure
+**Key Metrics:**
+- 📖 15 chapters across 4 parts
+- 💻 60+ annotated code listings
+- ✅ 15+ printable checklists
+- 📊 35+ architecture diagrams
+- 🌏 Australian context with global applicability
 
-- `/code` - Code samples by chapter
-- `/checklists` - Printable assessment checklists
-- `/diagrams` - Architecture diagrams
-- `/notebooks` - Jupyter notebooks
-
-## Quick Start
+## 📁 Repository Structure
+defending-tomorrow/
+├── code/ # Chapter-specific code listings
+│ ├── ch03-adversarial-ml/ # Chapter 3: FGSM, membership inference
+│ ├── ch04-secure-dev/ # Chapter 4: Differential privacy, safe serialization
+│ ├── ch05-mlops-security/ # Chapter 5: Terraform, K8s policies
+│ ├── ch06-llm-security/ # Chapter 6: Prompt injection, RAG security
+│ ├── ch07-advanced-defenses/ # Chapter 7: Neural cleanse, watermarking
+│ ├── ch08-threat-detection/ # Chapter 8: Autoencoders, LSTM models
+│ ├── ch09-automated-response/ # Chapter 9: Alert clustering
+│ ├── ch10-soar-platforms/ # Chapter 10: Adaptive playbooks
+│ ├── ch11-red-teaming/ # Chapter 11: Attack path graphs
+│ └── ch12-zero-trust/ # Chapter 12: Service mesh, ABAC
+├── checklists/ # Printable assessment tools
+│ ├── pdf/ # PDF versions (printable)
+│ └── markdown/ # Markdown source files
+├── diagrams/ # Architecture diagrams
+│ └── source-files/ # Draw.io, Excalidraw sources
+├── docs/ # Documentation
+│ └── appendices/ # Appendices A-E (glossary, tools, standards)
+├── examples/ # Jupyter notebooks
+│ └── notebooks/
+├── scripts/ # Utility scripts
+└── README.md # This file
+## 🚀 Quick Start
 
 ```bash
+# Clone the repository
 git clone https://github.com/SteveSharma-official/defending-tomorrow.git
 cd defending-tomorrow
+
+# Install dependencies (if requirements.txt exists)
 pip install -r requirements.txt
-## Official Companion Repository
-This repository contains code samples, checklists, and diagrams for *Defending Tomorrow* by Steve Sharma.
-## Repository Structure
-- `/code` - Code samples by chapter
-- `/checklists` - Printable assessment checklists
-- `/diagrams` - Architecture diagrams
-- `/notebooks` - Jupyter notebooks
-## Quick Start
-```bash
-git clone https://github.com/SteveSharma-official/defending-tomorrow.git
-cd defending-tomorrow
-pip install -r requirements.txt
-```
 **Book Pre-Release Updates**
 Want to know when the book is available?
 📧 Email: steve@cybersecuritylink.com.au (put "Defending Tomorrow" in the subject)
