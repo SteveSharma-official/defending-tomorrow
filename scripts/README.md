@@ -30,3 +30,4 @@ pip install pyyaml click rich
 
 # Or use main requirements
 pip install -r ../requirements.txt
+
