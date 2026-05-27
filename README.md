@@ -115,29 +115,29 @@ cd defending-tomorrow
 # Install dependencies (if requirements.txt exists)
 pip install -r requirements.txt
 📚 Chapter Reference
-Chapter	Folder	Topics
-Ch 3	code/ch03-adversarial-ml/	                FGSM, PGD, model extraction, membership inference
-Ch 4	code/ch04-secure-dev/	                    Differential privacy (Opacus), safe serialization (safetensors)
-Ch 5	code/ch05-mlops-security/	                Terraform, Kubernetes Pod Security Policies
-Ch 6	code/ch06-llm-security/	                  Prompt injection classifiers, RAG security
-Ch 7	code/ch07-advanced-defenses/	            Neural Cleanse, backdoor detection, watermarking
-Ch 8	code/ch08-threat-detection/	              Autoencoders, LSTM-based UEBA
-Ch 9	code/ch09-automated-response/	            Alert clustering, dynamic containment
-Ch 10	code/ch10-soar-platforms/	                Adaptive playbook engines
-Ch 11	code/ch11-red-teaming/	                  Attack path graphs (NetworkX)
-Ch 12	code/ch12-zero-trust/	                    Istio service mesh, ABAC policies
+Chapter	Folder	                        Topics
+Ch 3	code/ch03-adversarial-ml/	        FGSM, PGD, model extraction, membership inference
+Ch 4	code/ch04-secure-dev/	            Differential privacy (Opacus), safe serialization (safetensors)
+Ch 5	code/ch05-mlops-security/	        Terraform, Kubernetes Pod Security Policies
+Ch 6	code/ch06-llm-security/	          Prompt injection classifiers, RAG security
+Ch 7	code/ch07-advanced-defenses/	    Neural Cleanse, backdoor detection, watermarking
+Ch 8	code/ch08-threat-detection/	      Autoencoders, LSTM-based UEBA
+Ch 9	code/ch09-automated-response/	    Alert clustering, dynamic containment
+Ch 10	code/ch10-soar-platforms/	        Adaptive playbook engines
+Ch 11	code/ch11-red-teaming/	          Attack path graphs (NetworkX)
+Ch 12	code/ch12-zero-trust/	            Istio service mesh, ABAC policies
 
 ✅ Available Checklists
-ID	  Name	                                   Use Case
-1.1	  Initial AI Security Posture Assessment	Quick start assessment
-2.1	  Threat Landscape Assessment	Identify    AI-specific threats
-3.1	  Adversarial Vulnerability Assessment	  Test model robustness
-4.1	  Pre-Training Security                   Checklist	Before model training
-4.2	  Model Release Security Gate	            Production deployment
-7.1	  Advanced AI Model Security (20-point)	  Comprehensive verification
-12.1	Zero Trust AI Implementation (50-point)	Enterprise rollout
-13.1	AI Security Governance Health           Check	Compliance readiness
-15.1	Future-Proofing AI                     Security	Strategic planning
+ID	  Name	                                    Use Case
+1.1	  Initial AI Security Posture Assessment	  Quick start assessment
+2.1	  Threat Landscape Assessment	Identify      AI-specific threats
+3.1	  Adversarial Vulnerability Assessment	    Test model robustness
+4.1	  Pre-Training Security                     Checklist	Before model training
+4.2	  Model Release Security Gate	              Production deployment
+7.1	  Advanced AI Model Security (20-point)	    Comprehensive verification
+12.1	Zero Trust AI Implementation (50-point)	  Enterprise rollout
+13.1	AI Security Governance Health             Check	Compliance readiness
+15.1	Future-Proofing AI                        Security	Strategic planning
 📥 Download all checklists: checklists/pdf/
 
 📚 Appendices
