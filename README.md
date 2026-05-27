@@ -120,18 +120,13 @@ ID	  Name	                                   Use Case
 
 📚 Appendices
 Appendix A: AI Security Assessment Frameworks (8 checklists)
-
 Appendix B: 50+ Open-Source Tools Catalog
-
 Appendix C: 200+ Term Glossary (AI + Cybersecurity)
-
 Appendix D: Standards Mapping (NIST, MITRE ATLAS, ASD Essential Eight, APRA CPS 234, ISO 42001)
-
 Appendix E: 5 Case Studies (Gov, Bank, OT/ICS, Defence, Healthcare)
 
 🤝 Contributing
 We welcome contributions! Please see CONTRIBUTING.md for guidelines.
-
 Technical Reviewers Needed: Looking for CISOs, ML Engineers, and Security Architects.
 
 📄 License
