@@ -50,3 +50,4 @@ For editable versions:
 ```bash
 # Example conversion command
 pandoc markdown/checklist-1.1-initial-posture.md -o custom-checklist.pdf
+
