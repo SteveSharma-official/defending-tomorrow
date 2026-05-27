@@ -114,18 +114,18 @@ cd defending-tomorrow
 
 # Install dependencies (if requirements.txt exists)
 pip install -r requirements.txt
-📖 Chapter Code Index
-Chapter	Topic	Key Code Files
-3	Adversarial Machine Learning	fgsm_attack.py, membership_inference.py
-4	Secure Development	differential_privacy.py, safe_serialization.py
-5	MLOps Security	terraform/main.tf, k8s_policies.yaml
-6	LLM Security	prompt_injection_detector.py, rag_security.py
-7	Advanced Defenses	neural_cleanse.py, model_watermarking.py
-8	Threat Detection	autoencoder_anomaly.py, lstm_behavior.py
-9	Automated Response	alert_clustering.py, severity_prediction.py
-10	SOAR Platforms	adaptive_playbook.py, llm_playbook_gen.py
-11	Red Teaming	attack_path_analysis.py, bas_metrics.py
-12	Zero Trust	service_mesh_config.yaml, abac_policies.py
+📚 Chapter Reference
+Chapter	Folder	Topics
+Ch 3	code/ch03-adversarial-ml/	                FGSM, PGD, model extraction, membership inference
+Ch 4	code/ch04-secure-dev/	                    Differential privacy (Opacus), safe serialization (safetensors)
+Ch 5	code/ch05-mlops-security/	                Terraform, Kubernetes Pod Security Policies
+Ch 6	code/ch06-llm-security/	                  Prompt injection classifiers, RAG security
+Ch 7	code/ch07-advanced-defenses/	            Neural Cleanse, backdoor detection, watermarking
+Ch 8	code/ch08-threat-detection/	              Autoencoders, LSTM-based UEBA
+Ch 9	code/ch09-automated-response/	            Alert clustering, dynamic containment
+Ch 10	code/ch10-soar-platforms/	                Adaptive playbook engines
+Ch 11	code/ch11-red-teaming/	                  Attack path graphs (NetworkX)
+Ch 12	code/ch12-zero-trust/	                    Istio service mesh, ABAC policies
 
 ✅ Available Checklists
 ID	  Name	                                   Use Case
