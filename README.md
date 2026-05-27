@@ -56,6 +56,35 @@ defending-tomorrow/
 | `/docs` | Appendices A-E (glossary, tools, standards, case studies) | Everyone - reference material |
 | `/examples` | Interactive Jupyter notebooks | Hands-on learners, trainers |
 | `/scripts` | Utility scripts for automation | DevOps, security automation engineers |
+
+### Detailed Folder Contents
+
+**📁 /checklists**
+- 15 checklists from Chapters 1-15
+- Format: Markdown (editable) + PDF (audit-ready)
+- Topics: Security posture, Zero Trust AI, Governance maturity
+
+**📁 /code**
+- Code listings referenced as `Code X.Y` throughout the book
+- Organized by chapter (`ch3_adversarial/`, `ch6_llm_security/`, etc.)
+- Dependencies listed in `/requirements.txt`
+
+**📁 /diagrams**
+- 35 diagrams available in Draw.io (`.drawio`) and exported PDF formats
+- Use case: Security architecture reviews, board presentations, regulatory submissions
+
+**📁 /docs**
+- **⚠️ Password-protected content** — Contact the author for access
+- Contains: Endorsement previews, draft chapters, high-resolution diagrams
+
+**📁 /examples**
+- Standalone demos: Adversarial training, RAG security, SOAR engine
+- Includes Jupyter notebooks and deployable applications
+
+**📁 /scripts**
+- Automation tools for repository maintenance
+- `generate_toc.py`, `validate_checklists.py`, etc.
+
 ```bash
 # Clone the repository
 git clone https://github.com/SteveSharma-official/defending-tomorrow.git
@@ -75,17 +104,18 @@ Chapter	Topic	Key Code Files
 10	SOAR Platforms	adaptive_playbook.py, llm_playbook_gen.py
 11	Red Teaming	attack_path_analysis.py, bas_metrics.py
 12	Zero Trust	service_mesh_config.yaml, abac_policies.py
+
 ✅ Available Checklists
-ID	Name	Use Case
-1.1	Initial AI Security Posture Assessment	Quick start assessment
-2.1	Threat Landscape Assessment	Identify AI-specific threats
-3.1	Adversarial Vulnerability Assessment	Test model robustness
-4.1	Pre-Training Security Checklist	Before model training
-4.2	Model Release Security Gate	Production deployment
-7.1	Advanced AI Model Security (20-point)	Comprehensive verification
+ID	  Name	                                   Use Case
+1.1	  Initial AI Security Posture Assessment	Quick start assessment
+2.1	  Threat Landscape Assessment	Identify    AI-specific threats
+3.1	  Adversarial Vulnerability Assessment	  Test model robustness
+4.1	  Pre-Training Security                   Checklist	Before model training
+4.2	  Model Release Security Gate	            Production deployment
+7.1	  Advanced AI Model Security (20-point)	  Comprehensive verification
 12.1	Zero Trust AI Implementation (50-point)	Enterprise rollout
-13.1	AI Security Governance Health Check	Compliance readiness
-15.1	Future-Proofing AI Security	Strategic planning
+13.1	AI Security Governance Health           Check	Compliance readiness
+15.1	Future-Proofing AI                     Security	Strategic planning
 📥 Download all checklists: checklists/pdf/
 
 📚 Appendices
@@ -106,18 +136,14 @@ Technical Reviewers Needed: Looking for CISOs, ML Engineers, and Security Archit
 
 📄 License
 Code samples: MIT License (free use with attribution)
-
 Diagrams & checklists: All rights reserved (book content)
 
 🐛 Reporting Issues
 Open an issue for:
-
 Code corrections or bugs
-
 Clarification requests
 
 Security concerns (private disclosure available)
-
 📬 Connect
 ⭐ Star this repository to stay updated with new chapters and code releases!
 **Book Pre-Release Updates**
