@@ -1,5 +1,16 @@
 # Documentation Directory - Appendices & Reference Materials
 
+# /docs - Documentation & Preview Assets
+
+This folder contains documentation and preview materials for Defending Tomorrow.
+
+## Contents
+- `endorsement-preview/` - Secure PDF previews for endorsers and reviewers
+- `chapter-drafts/` - Draft chapters for peer review (by request only)
+- `architecture-diagrams/` - Source files for 35+ production-grade diagrams
+
+## Access Notes
+⚠️ Some files in this folder are password-protected. Contact the author for access.
 This directory contains the comprehensive appendices that support *Defending Tomorrow*.
 
 ## 📁 Structure
