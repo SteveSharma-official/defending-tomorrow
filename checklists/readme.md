@@ -1,4 +1,3 @@
-
 ---
 
 ### 2. `checklists/` Folder README
