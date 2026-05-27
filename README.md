@@ -17,8 +17,23 @@
 - 📊 35+ architecture diagrams
 - 🌏 Australian context with global applicability
 
+# Defending Tomorrow: AI Security in the Age of Intelligent Threats
+
+**A practitioner's field manual for securing AI systems and weaponizing AI for defence.**
+
+## What Makes This Book Different
+
+- **15+ printable checklists** – Audit-ready assessment tools
+- **35+ architecture diagrams** – Production-grade blueprints
+- **60+ tested code listings** – Python, Terraform, Kubernetes
+- **5-jurisdiction coverage** – US, UK, EU, Canada, Australia
+- **Australian context with global applicability**
+
+---
+
 ## 📁 Repository Structure
 defending-tomorrow/
+│
 ├── code/ # Chapter-specific code listings
 │ ├── ch03-adversarial-ml/ # Chapter 3: FGSM, membership inference
 │ ├── ch04-secure-dev/ # Chapter 4: Differential privacy, safe serialization
@@ -30,21 +45,28 @@ defending-tomorrow/
 │ ├── ch10-soar-platforms/ # Chapter 10: Adaptive playbooks
 │ ├── ch11-red-teaming/ # Chapter 11: Attack path graphs
 │ └── ch12-zero-trust/ # Chapter 12: Service mesh, ABAC
+│
 ├── checklists/ # Printable assessment tools
-│ ├── pdf/ # PDF versions (printable)
-│ └── markdown/ # Markdown source files
+│ ├── pdf/ # PDF versions (printable, audit-ready)
+│ └── markdown/ # Markdown source files (editable)
+│
 ├── diagrams/ # Architecture diagrams
 │ └── source-files/ # Draw.io, Excalidraw sources
+│
 ├── docs/ # Documentation
-│ └── appendices/ # Appendices A-E (glossary, tools, standards)
-├── examples/ # Jupyter notebooks
-│ └── notebooks/
-├── scripts/ # Utility scripts
+│ ├── appendices/ # Appendices A-E (glossary, tools, standards)
+│ └── examples/ # Usage examples
+│ └── notebooks/ # Jupyter notebooks
+│
+├── scripts/ # Utility scripts (automation, validation)
+│
+├── requirements.txt # Python dependencies
+├── CONTRIBUTING.md # Contribution guidelines
+├── LICENSE # MIT License
 └── README.md # This file
+
 ## 🚀 Quick Start
-
 ---
-
 ```markdown
 ## 📂 Folder Purpose Quick Reference
 
