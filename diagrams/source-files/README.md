@@ -57,4 +57,3 @@ All print-ready diagrams follow these standards:
 - **Resolution:** 300 DPI minimum
 - **Color space:** CMYK for print, RGB for web
 - **Formats:** PDF (print), PNG (web), SVG (scalable)
-
