@@ -49,22 +49,29 @@ defending-tomorrow/
 │
 
 ├── checklists/ # Printable assessment tools
+
 │ ├── pdf/ # PDF versions (printable, audit-ready)
+
 │ └── markdown/ # Markdown source files (editable)
 │
 
 ├── diagrams/ # Architecture diagrams
+
 │ └── source-files/ # Draw.io, Excalidraw sources
 │
 
 ├── docs/ # Documentation
+
 │ ├── appendices/ # Appendices A-E (glossary, tools, standards)
+
 │ └── examples/ # Usage examples
+
 │ └── notebooks/ # Jupyter notebooks
 │
 
 ├── scripts/ # Utility scripts (automation, validation)
 │
+
 ├── requirements.txt # Python dependencies
 
 ├── CONTRIBUTING.md # Contribution guidelines
