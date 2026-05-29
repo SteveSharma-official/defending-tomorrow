@@ -17,9 +17,7 @@
 - ✅ 15+ printable checklists
 - 📊 35+ architecture diagrams
 - 🌏 Australian context with global applicability
-- **5-jurisdiction coverage** – US, UK, EU, Canada, Australia
-- **Australian context with global applicability**
-- 
+-   **5-jurisdiction coverage** – US, UK, EU, Canada, Australia
 ---
 
 ## 📁 Repository Structure
