@@ -25,13 +25,21 @@ defending-tomorrow/
 │
 ├── code/ # Chapter-specific code listings
 │ ├── ch03-adversarial-ml/ # Chapter 3: FGSM, membership inference
+
 │ ├── ch04-secure-dev/ # Chapter 4: Differential privacy, safe serialization
+
 │ ├── ch05-mlops-security/ # Chapter 5: Terraform, K8s policies
+
 │ ├── ch06-llm-security/ # Chapter 6: Prompt injection, RAG security
+
 │ ├── ch07-advanced-defenses/ # Chapter 7: Neural cleanse, watermarking
+
 │ ├── ch08-threat-detection/ # Chapter 8: Autoencoders, LSTM models
+
 │ ├── ch09-automated-response/ # Chapter 9: Alert clustering
+
 │ ├── ch10-soar-platforms/ # Chapter 10: Adaptive playbooks
+
 │ ├── ch11-red-teaming/ # Chapter 11: Attack path graphs
 │ └── ch12-zero-trust/ # Chapter 12: Service mesh, ABAC
 │
