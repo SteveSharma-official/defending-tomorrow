@@ -45,6 +45,7 @@ defending-tomorrow/
 
 │ └── ch12-zero-trust/ # Chapter 12: Service mesh, ABAC
 │
+
 ├── checklists/ # Printable assessment tools
 │ ├── pdf/ # PDF versions (printable, audit-ready)
 │ └── markdown/ # Markdown source files (editable)
@@ -59,11 +60,15 @@ defending-tomorrow/
 │ └── examples/ # Usage examples
 │ └── notebooks/ # Jupyter notebooks
 │
+
 ├── scripts/ # Utility scripts (automation, validation)
 │
 ├── requirements.txt # Python dependencies
+
 ├── CONTRIBUTING.md # Contribution guidelines
+
 ├── LICENSE # MIT License
+
 └── README.md # This file
 
 ## 🚀 Quick Start
