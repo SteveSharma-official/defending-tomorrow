@@ -10,25 +10,16 @@
 
 *Defending Tomorrow* is the definitive practitioner's guide to AI security — written by a Principal Architect for senior security professionals, ML engineers, and SOC architects.
 
+**A practitioner's field manual for securing AI systems and weaponizing AI for defence.** 
 **Key Metrics:**
 - 📖 15 chapters across 4 parts
 - 💻 60+ annotated code listings
 - ✅ 15+ printable checklists
 - 📊 35+ architecture diagrams
 - 🌏 Australian context with global applicability
-
-# Defending Tomorrow: AI Security in the Age of Intelligent Threats
-
-**A practitioner's field manual for securing AI systems and weaponizing AI for defence.**
-
-## What Makes This Book Different
-
-- **15+ printable checklists** – Audit-ready assessment tools
-- **35+ architecture diagrams** – Production-grade blueprints
-- **60+ tested code listings** – Python, Terraform, Kubernetes
 - **5-jurisdiction coverage** – US, UK, EU, Canada, Australia
 - **Australian context with global applicability**
-
+- 
 ---
 
 ## 📁 Repository Structure
