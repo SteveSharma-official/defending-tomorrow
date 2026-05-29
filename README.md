@@ -24,6 +24,7 @@
 defending-tomorrow/
 │
 ├── code/ # Chapter-specific code listings
+
 │ ├── ch03-adversarial-ml/ # Chapter 3: FGSM, membership inference
 
 │ ├── ch04-secure-dev/ # Chapter 4: Differential privacy, safe serialization
@@ -41,15 +42,18 @@ defending-tomorrow/
 │ ├── ch10-soar-platforms/ # Chapter 10: Adaptive playbooks
 
 │ ├── ch11-red-teaming/ # Chapter 11: Attack path graphs
+
 │ └── ch12-zero-trust/ # Chapter 12: Service mesh, ABAC
 │
 ├── checklists/ # Printable assessment tools
 │ ├── pdf/ # PDF versions (printable, audit-ready)
 │ └── markdown/ # Markdown source files (editable)
 │
+
 ├── diagrams/ # Architecture diagrams
 │ └── source-files/ # Draw.io, Excalidraw sources
 │
+
 ├── docs/ # Documentation
 │ ├── appendices/ # Appendices A-E (glossary, tools, standards)
 │ └── examples/ # Usage examples
